@@ -1,0 +1,2 @@
+D:\Eke\Something\C++\Calculator\x64\Debug\Calculator.exe
+D:\Eke\Something\C++\Quadratic Calculator\x64\Debug\Calculator.exe
